@@ -2,7 +2,7 @@
     // Twitch API `client_id` (get from https://dev.twitch.tv/dashboard/apps)
     "twitch_api_client_id": "gvrl5qhrh6rlot1vb06spavhvhlkhj",
     // Twitch source channel name
-    "twitch_channel_name": "hardgamechannel",
+    "twitch_channel_name": "murren_egor",
     // Secret stream key from YouTube (get from https://www.youtube.com/live_dashboard)
     "youtube_stream_key": "hYfGtIdHeJs",
     // Continuously retry if restreaming fails
